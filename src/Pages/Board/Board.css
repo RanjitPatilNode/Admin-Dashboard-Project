@@ -3,6 +3,7 @@
     flex-direction: column;
     gap: 1rem;
     padding: 1rem;
+    margin-top: -3rem;
 }
 .board-container>:nth-child(1)
 {
@@ -12,6 +13,7 @@
 }
 .react-kanban-board{
     color:var(--grey);
+    /* color: black; */
 }
 .react-kanban-board >:nth-child(1)
 {
@@ -54,6 +56,8 @@
 
 .column-header{
     width: 100%;
+    /* margin: 4px; */
+    /* border: 2px solid red; */
     display: flex;
     justify-content: space-between;
     padding: 0px 8px;

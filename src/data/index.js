@@ -107,7 +107,7 @@ export const boardData = {
   columns: [
     {
       id: 1,
-      title: "Backlog",
+      title: "BACK LOG",
       cards: [
         {
           id: 1,
@@ -134,7 +134,7 @@ export const boardData = {
     },
     {
       id: 3,
-      title: "Doing",
+      title: "DOING",
       cards: [
         {
           id: 10,
@@ -150,7 +150,7 @@ export const boardData = {
     },
     {
       id: 4,
-      title: "Completed",
+      title: "COMPLETED",
       cards: [
         {
           id: 12,
